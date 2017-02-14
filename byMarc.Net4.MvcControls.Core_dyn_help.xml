@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net4.MvcControls.Core" Title="byMarc.Net4.MvcControls.Core Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.MvcControls.Extensions.Button" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.MvcControls.Core.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net4.MvcControls.Core">Button Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.MvcControls.Extensions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.MvcControls.Core.chm::/topic_0000000000000001.html" LinkGroup="byMarc.Net4.MvcControls.Core">Extensions Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.MvcControls.Extensions.Image" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.MvcControls.Core.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net4.MvcControls.Core">Image Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.MvcControls.Extensions.Submit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.MvcControls.Core.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net4.MvcControls.Core">Submit Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.MvcControls" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.MvcControls.Core.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net4.MvcControls.Core">byMarc.Net4.MvcControls Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net4.MvcControls.Core Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net4.MvcControls.Core.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net4.MvcControls.Core">byMarc.Net4.MvcControls.Core Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
